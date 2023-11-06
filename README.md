@@ -1,2 +1,2 @@
-# My-Portfolio
-Portfolio website using html, CSS and JavaScript
+# my-portfolio
+portfolio website using html, CSS and JavaScript
